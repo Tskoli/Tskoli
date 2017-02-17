@@ -8,7 +8,7 @@ Námið er skipulagt í samstarfi við Háskólann í Reykjavík og alþjóðule
 
 Kennsla er verkefnamiðuð þar sem nemendur fá tækifæri til að vinna að raunverulegum úrlausnum. Hver önn endar svo á verklegum hópverkefnum með skörun faggreina.
 
-Að loknu námi
+#### Að loknu námi
 
 Brautin býr nemendur sérstaklega undir nám í háskóla á sviði tölvunarfræði, vefþróun, tækni- og verkfræði.
 
@@ -16,12 +16,13 @@ Ennfremur eru nemendur vel undirbúnir fyrir próftöku í alþjóðlegum vottun
 
 Nemendur sem útskrifast af tölvubraut eiga greiða leið í  nám á háskólastigi og eru eftirsóttir starfskraftar í atvinnulífinu.   
 
-Skipulag námsins
+#### Skipulag námsins
 
 Tölvubrautin er skipulögð sem þriggja ára (6 annir) 215 eininga námsleið sem lýkur með stúdentsprófi.
 
-Inntökuviðmið brautar
+####Inntökuviðmið brautar
 
 Til að hefja nám á tölvubraut þá þarf að hafa lokið námi í gunnskóla með lágmarks einkuninn B í stærðfræði, íslensku og ensku. 
 
-Kennslustaðir: Í Hafnarfirði Flatahrauni og í Vörðuskóla Skólavörðuholti
+#### Kennslustaðir: 
+  Í Hafnarfirði Flatahrauni og í Vörðuskóla Skólavörðuholti
