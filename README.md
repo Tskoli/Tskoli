@@ -1,0 +1,2 @@
+# uts-tolvubraut
+Upplýsingatækniskólinn, tölvubraut
