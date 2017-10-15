@@ -20,7 +20,7 @@ Nemendur sem útskrifast af tölvubraut eiga greiða leið í  nám á háskóla
 
 Tölvubrautin er skipulögð sem þriggja ára (6 annir) 215 eininga námsleið sem lýkur með stúdentsprófi.
 
-####Inntökuviðmið brautar
+#### Inntökuviðmið brautar
 
 Til að hefja nám á tölvubraut þá þarf að hafa lokið námi í gunnskóla með lágmarks einkuninn B í stærðfræði, íslensku og ensku. 
 
