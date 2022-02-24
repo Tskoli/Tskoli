@@ -24,5 +24,4 @@ Tölvubrautin er skipulögð sem þriggja ára (6 annir) 215 eininga námsleið 
 
 Til að hefja nám á tölvubraut þá þarf að hafa lokið námi í gunnskóla með lágmarks einkuninn B í stærðfræði, íslensku og ensku. 
 
-#### Upplýsingatækniskólinn
-Háteigsvegi 35-39, 105 Reykjavík. 
+**Upplýsingatækniskólinn.** Háteigsvegi 35-39, 105 Reykjavík. 
